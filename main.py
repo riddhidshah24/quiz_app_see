@@ -67,7 +67,7 @@ st.markdown(
 )
 
 # Title
-st.title("General Quiz ")
+st.title("General Quiz !")
 
 # Questions
 questions = get_questions()
